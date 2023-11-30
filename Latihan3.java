@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 public class Latihan3 {
     //define directory path  
-    private static final String dir_path = "D:\\kuliah\\semester 3\\PBO (bu yuricha)\\public_file\\";
+    private static final String dir_path = "D:\\public_file\\";
     
     
     public static void main(String[] args) {
